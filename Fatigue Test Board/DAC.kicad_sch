@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "2cd9b982-083a-4f79-92d2-6c366e973964")
+	(paper "A4")
+	(title_block
+		(title "DAC")
+		(date "2024-02-21")
+		(rev "-")
+		(comment 1 "Josue Cavazos Jr.")
+	)
+	(lib_symbols)
+	(text "[4] DAC & Analog Output"
+		(exclude_from_sim no)
+		(at 16.256 24.638 0)
+		(effects
+			(font
+				(size 5.0038 5.0038)
+				(thickness 1.0008)
+				(bold yes)
+				(italic yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "d7f101b7-9c14-4beb-803f-715905500460")
+	)
+)
